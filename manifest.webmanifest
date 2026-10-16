@@ -1,0 +1,11 @@
+{
+ "id":"./", "name":"MIR4 Item Atlas", "short_name":"Item Atlas",
+ "description":"Offline item lookup and local catalog editing. Synthetic demonstration data; known uses are incomplete.",
+ "start_url":"./", "scope":"./", "display":"standalone",
+ "theme_color":"#12352d", "background_color":"#f5f4ee",
+ "icons":[
+  {"src":"icons/atlas-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+  {"src":"icons/atlas-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+  {"src":"icons/atlas-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+ ]
+}
